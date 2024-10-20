@@ -1,0 +1,2 @@
+# myhugo
+create hugo sites
